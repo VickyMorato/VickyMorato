@@ -6,16 +6,16 @@
   </a>
 </div>
 
-<img align="center" alt="" src="src/apr.gif">
+<img align="center" alt="" src="src/header.gif">
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unifavip Wyden e Engenharia da computação na Faculdade Martha Falcão Wyden. Atualmente trabalho no Instituto de pesquisas da Amazônia(INPA).
+<p align="center">Estudante de Engenharia da computação na Faculdade Martha Falcão Wyden. Atualmente trabalho no Instituto de pesquisas da Amazônia(INPA).
 Estou constantemente estudando e buscando me atualizar na área da tecnologia, para poder criar projetos que possam ajudar na nossa evolução.
   
 #
 
-<img align="right" alt="" height="190px" src="src/desktop.gif">
+<img align="right" alt="" height="190px" src="src/desktop2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
