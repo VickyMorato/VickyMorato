@@ -9,13 +9,13 @@
 <img align="center" alt="" src="src/header.gif">
 
 ### 🤵 About Me:
-- 🎓 Sou estudante de Engenharia da Computação  com foco em Suporte Técnico e Desenvolvimento.
-- 💻 No momento, estou aprimorando minhas habilidades em programação front-end com HTML, CSS, JavaScript e React, além de fundamentos em Testes de Software e Lógica de Programação com Python e C.
-- ☁️ Atualmente, estou aprendendo sobre Fundamentos de Computação em Nuvem (AWS).
-- 💬 Vamos conversar sobre suporte técnico (N1 e N2) , manutenção de computadores , infraestrutura de rede, e desenvolvimento.
-- 😄 Pronomes: Ela/Dela.
-- 📝 Tenho experiência em criação e edição de documentos técnicos e visuais e atuo como técnica de suporte freelancer.
-- ⚡ Curiosidade: Estou sempre tentando aprender coisas novas e fico fixada nelas.
+- 🎓 I’m a Computer Engineering student focused on Technical Support and Development.
+- 💻 Currently improving my front-end programming skills with HTML, CSS, JavaScript, and React, as well as fundamentals in    Software Testing and Programming Logic with Python and C.
+- ☁️ Learning about Cloud Computing Fundamentals (AWS).
+- 💬 Let’s talk about technical support (Level 1 & 2), computer maintenance, network infrastructure, and development.
+- 😄 Pronouns: She/Her.
+- 📝 Experienced in creating and editing technical and visual documents, and working as a freelance support technician.
+- ⚡ Fun fact: I’m always trying to learn new things and get deeply focused on them.
 #
 ## 🛠️ My Skills
 
