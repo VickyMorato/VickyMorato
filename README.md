@@ -29,17 +29,8 @@
 
 <p align="left"> 
   &emsp; 
-    <a href="https://www.java.com/pt-br/">
-        <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
-    </a>
     <a href="https://www.python.org/">
         <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"/>
-    </a>
-    <a href="https://devdocs.io/c/">
-        <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white"/>
-    </a>
-    <a href="https://isocpp.org/">
-        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
     </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
         <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
