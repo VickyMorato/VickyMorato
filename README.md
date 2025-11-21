@@ -8,14 +8,20 @@
 
 <img align="center" alt="" src="src/header.gif">
 
-### 🤵 About Me:
-- 🎓 I’m a Computer Engineering student focused on Technical Support and Development.
-- 💻 Currently improving my front-end programming skills with HTML, CSS, JavaScript, and React, as well as fundamentals in    Software Testing and Programming Logic with Python and C.
-- ☁️ Learning about Cloud Computing Fundamentals (AWS).
-- 💬 Let’s talk about technical support (Level 1 & 2), computer maintenance, network infrastructure, and development.
-- 😄 Pronouns: She/Her.
-- 📝 Experienced in creating and editing technical and visual documents, and working as a freelance support technician.
-- ⚡ Fun fact: I’m always trying to learn new things and get deeply focused on them.
+### 🛡️ About Me: The Digital Resilience Engineer (She/Her)
+🎓 Current Focus: I'm a Computer Engineering student shifting my focus to Cybersecurity Analysis and Incident Response.
+
+💻 Technical Foundation: I am actively enhancing my knowledge in Security methodologies while maintaining proficiency in Programming Logic (Python, C) and Front-End fundamentals (HTML, CSS, JavaScript, React).
+
+☁️ Strategic Knowledge: Currently learning about Cloud Computing Fundamentals (AWS), focusing on secure infrastructure design.
+
+🛠️ Professional Experience: Possess solid experience in Technical Support (Level 1 & 2), Computer Maintenance, and Network Infrastructure, having also worked as a freelance support technician.
+
+📝 Documentation: Experienced in creating and editing technical and visual documents, which is crucial for security reports and documentation.
+
+💬 Let’s Connect: I'm always open to discussing threat analysis, secure network architectures, and high-level technical support strategies.
+
+⚡ Fun Fact: I am the embodiment of Focused Adaptability – I dive deep into mastering new, complex domains!
 #
 ## 🛠️ My Skills
 
