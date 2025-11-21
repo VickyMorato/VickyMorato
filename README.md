@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="src/header.gif">
+
 
 ### 🛡️ About Me: The Digital Resilience Engineer (She/Her)
 🎓 Current Focus: I'm a Computer Engineering student shifting my focus to Cybersecurity Analysis and Incident Response.
