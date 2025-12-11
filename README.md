@@ -82,8 +82,7 @@
 
 ### 🐱My Github stats:
 ![dark](https://awesome-github-stats.azurewebsites.net/user-stats/VickyMorato?theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyMorato&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+![image](https://user-images.githubusercontent.com/107488620/183304038-2788ab5d-4c02-45e9-a724-990f27061c54.png)
 ###
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
