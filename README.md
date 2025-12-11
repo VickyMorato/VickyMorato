@@ -82,7 +82,7 @@
 
 ### 🐱My Github stats:
 ![dark](https://awesome-github-stats.azurewebsites.net/user-stats/VickyMorato?theme=dark)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=VickyMorato&type=top-repos)
+![GitHub Stats](https://streak-stats.demolab.com?user=VickyMorato&theme=radical&hide_border=true)
 ###
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
