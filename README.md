@@ -8,20 +8,19 @@
 
 
 
-### 🛡️ About Me: The Digital Resilience Engineer (She/Her)
-🎓 Current Focus: I'm a Computer Engineering student shifting my focus to Cybersecurity Analysis and Incident Response.
+### 👩‍💻 About Me: Aspiring Full Stack Developer (She/Her)
 
-💻 Technical Foundation: I am actively enhancing my knowledge in Security methodologies while maintaining proficiency in Programming Logic (Python, C) and Front-End fundamentals (HTML, CSS, JavaScript, React).
+🎯 Current Focus: I'm a Computer Engineering student building my path to become a Full Stack Developer, working on both front-end and back-end development.
 
-☁️ Strategic Knowledge: Currently learning about Cloud Computing Fundamentals (AWS), focusing on secure infrastructure design.
+💻 Technical Foundation: Programming logic (Python, C) and front-end fundamentals (HTML, CSS, JavaScript, React). Now expanding into back-end development, APIs, and databases.
 
-🛠️ Professional Experience: Possess solid experience in Technical Support (Level 1 & 2), Computer Maintenance, and Network Infrastructure, having also worked as a freelance support technician.
+🛠️ Professional Experience: Hands-on experience in Technical Support (Level 1 & 2), computer maintenance, and network infrastructure, including freelance support work. This taught me to troubleshoot fast, communicate clearly, and think from the user's perspective.
 
-📝 Documentation: Experienced in creating and editing technical and visual documents, which is crucial for security reports and documentation.
+📄 Documentation: Experienced in creating clear technical and visual documentation, a skill I bring into every project I build.
 
-💬 Let’s Connect: I'm always open to discussing threat analysis, secure network architectures, and high-level technical support strategies.
+🔐 Next Step: Once I have a solid development foundation, I plan to specialize in Cybersecurity, so I can build secure software from the ground up. I'm also learning Cloud Computing fundamentals (AWS).
 
-⚡ Fun Fact: I am the embodiment of Focused Adaptability – I dive deep into mastering new, complex domains!
+🤝 Let's Connect: I'm open to conversations about web development, junior opportunities, internships, and projects where I can learn and contribute.
 #
 ## 🛠️ My Skills
 
